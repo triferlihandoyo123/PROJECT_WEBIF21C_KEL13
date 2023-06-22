@@ -45,7 +45,7 @@
     <span id="tanggal"></span><br><br>
     <span id="institusi"></span><br>
     <span>Rektor Universitas Teknokrat Indonesia</span><br><br><br><br><br>
-    <span>Dr. HM Nasrullah Yusuf, MBA.</span><br>
+    <span>Dr. H. M. Nasrullah Yusuf, S.E., M.B.A.</span><br>
     <span><sub>Rektor</sub></span>
 </div>
 
